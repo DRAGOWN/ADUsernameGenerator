@@ -16,4 +16,14 @@ Emma Watson
 python adusergen.py inputfile.txt outputfile.txt
 ```
 
-_Note: Don't use middle names._
+_Note: Don't input file with middle names._
+
+### Formating the full names:
+The script outputs full names into 4 different formats:
+```
+AvrilLavigne
+Avril.Lavigne
+ALavigne
+A.Lavigne
+[...]
+```
